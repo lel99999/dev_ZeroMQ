@@ -1,6 +1,9 @@
 # dev_ZeroMQ
 Messaging with ZeroMQ
 
+#### Messaging in Jupyter Notebooks uses ZeroMQ sockets 
+[Building a Jupyter Kernel](https://www.spenai.org/bravepineapple/jupyter_kernel/)<br/>
+
 #### Python ZeroMQ - pyzmq examples
 
 #### Executing Scripts
